@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs related to handling spaces in alphanumeric fields.  The `bug.cob` file contains code that incorrectly handles empty fields leading to potential runtime errors.  The `bugSolution.cob` file shows a corrected version with improved logic for detecting empty alphanumeric fields.
